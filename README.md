@@ -17,21 +17,6 @@ I'm a passionate **Full Stack Developer** specializing in **MERN Stack, TypeScri
 
 ---
 
-## 📌 Featured Projects
-
-### 🛍️ E-Commerce Website (WIP)
-- React + TypeScript with local storage for cart management
-- Prisma ORM with PostgreSQL for database management
-- Authentication & optimized UI with Tailwind CSS
-
-### ✅ To-Do App
-- State management with Recoil
-- Responsive UI with React and Tailwind CSS
-
-### 🗺️ OpenLayers Map Integration
-- Interactive mapping with OpenLayers API
-- Location-based features and user-friendly UI
-
 📌 Check out more projects in my **[GitHub Repositories](https://github.com/agayushh)**
 
 ---
