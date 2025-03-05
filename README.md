@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** specializing in **MERN Stack, TypeScript, React Native, PostgreSQL, and Prisma**. I love building innovative solutions, contributing to open-source projects, and exploring new technologies. 
+I'm a passionate **Full Stack Developer** specializing in **MERN Stack, TypeScript, PostgreSQL, and Prisma**. I love building innovative solutions, contributing to open-source projects, and exploring new technologies. 
 
 
 ---
@@ -31,9 +31,9 @@ I'm a passionate **Full Stack Developer** specializing in **MERN Stack, TypeScri
 ## 🤝 Let's Connect
 
 - 🔗 [Portfolio Website](https://your-portfolio-url.com)  
-- 🐦 [Twitter/X](https://twitter.com/your-twitter)  
-- 💼 [LinkedIn](https://linkedin.com/in/ayush-goyal)  
-- 📩 Email: your-email@example.com  
+- 🐦 [Twitter/X](https://twitter.com/agayushh)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/-ayushgoyal/)  
+- 📩 Email: agayush088@gmail.com  
 
 ---
 
