@@ -30,7 +30,6 @@ I'm a passionate **Full Stack Developer** specializing in **MERN Stack, TypeScri
 
 ## 🤝 Let's Connect
 
-- 🔗 [Portfolio Website](https://your-portfolio-url.com)  
 - 🐦 [Twitter/X](https://twitter.com/agayushh)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/-ayushgoyal/)  
 - 📩 Email: agayush088@gmail.com  
