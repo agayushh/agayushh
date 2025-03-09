@@ -12,7 +12,8 @@ I'm a passionate **Full Stack Developer** specializing in **MERN Stack, TypeScri
 
 **Frontend:** React.js, TypeScript, Tailwind CSS  
 **Backend:** Node.js, Express.js, Prisma, PostgreSQL, MongoDB  
-**Tools & DevOps:** Docker, Git, GitHub,
+**Tools & DevOps:** Docker, Git, GitHub, AWS, Digital Ocean
+**Language:** Java, Javascript, Python, C
 
 
 ---
