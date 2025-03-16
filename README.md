@@ -20,7 +20,6 @@
 
 ## 🚀 About Me
 
-> Building innovative solutions with modern web technologies
 
 I'm a **Full Stack Developer** with expertise in the **MERN Stack, TypeScript, and PostgreSQL**. I'm passionate about crafting efficient, scalable applications and contributing to open-source projects that make a difference. My goal is to blend technical excellence with great user experiences.
 
