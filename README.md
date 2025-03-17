@@ -65,13 +65,6 @@ I'm a **Full Stack Developer** with expertise in the **MERN Stack, TypeScript, a
 - GraphQL API Design
 - Cloud Infrastructure and DevOps
 
-## 📫 Let's Connect
-
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you want to:
-
-- Collaborate on open-source projects
-- Discuss web development trends and best practices
-- Share knowledge and learn together
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=agayushh&color=brightgreen" alt="Profile Views" />
