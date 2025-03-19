@@ -64,6 +64,7 @@ I'm a **Full Stack Developer** with expertise in the **MERN Stack, TypeScript, a
 - Next.js and Server Components
 - GraphQL API Design
 - Cloud Infrastructure and DevOps
+- Kubernetes
 
 
 <div align="center">
